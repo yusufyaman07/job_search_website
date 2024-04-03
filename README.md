@@ -1,4 +1,5 @@
-![job_search](https://github.com/yusufyaman07/job_search_website/assets/148998418/e2bbb9c6-9f38-4fe0-97ac-88a7ca8a179c)# Job Search Website
+![job_search](https://github.com/yusufyaman07/job_search_website/assets/148998418/e2bbb9c6-9f38-4fe0-97ac-88a7ca8a179c)
+# Job Search Website
 
 
 Using the website is very simple. On the home page, you can browse current job postings and see the logos of popular companies.
